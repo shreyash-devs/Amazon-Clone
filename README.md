@@ -9,7 +9,7 @@ A static **Amazon homepage clone** built using **HTML & CSS**. This is my first 
 ✔️ Image gallery included  
 
 ## 🔹 Live Demo  
-[View Here](Amazonclone.netlify.app) AmazonClone 
+[View Here](https://Amazonclone.netlify.app) AmazonClone 
 
 📩 **For inquiries & collaborations:** shreyashdevs.work@gmail.com  
 

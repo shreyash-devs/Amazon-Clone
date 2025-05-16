@@ -1,7 +1,7 @@
 # 🛒 Amazon Clone 
 Created by - Shreyash Dubewar<br>This project is a clone of amazon.com made with the basic of HTML & CSS
 
-A static **Amazon homepage clone** built using **HTML & CSS**. This is my first project, showcasing a responsive design with all front-page elements and a gallery.  
+A static **Amazon homepage clone** built using **React & HTML & CSS**. This is my first project, showcasing a responsive design with all front-page elements and a gallery.  
 
 ## 🔹 Features  
 ✔️ Clean & structured layout  
